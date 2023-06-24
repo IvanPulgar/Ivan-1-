@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ivan-1-/static/css/main.df4273a9.css",
+    "main.js": "/Ivan-1-/static/js/main.c2d7c44e.js",
+    "static/js/787.319676fc.chunk.js": "/Ivan-1-/static/js/787.319676fc.chunk.js",
+    "static/media/Babylon.png": "/Ivan-1-/static/media/Babylon.e8f887ae6b60bea86bf2.png",
+    "static/media/Sonic.png": "/Ivan-1-/static/media/Sonic.72a7a0768a47ce5f251c.png",
+    "static/media/Thor.png": "/Ivan-1-/static/media/Thor.ba9acd0997ec4b3a805d.png",
+    "static/media/pixels.png": "/Ivan-1-/static/media/pixels.4e3ac3c50d7e325454cc.png",
+    "static/media/r&f.png": "/Ivan-1-/static/media/r&f.763929910277529054e6.png",
+    "static/media/Mario.png": "/Ivan-1-/static/media/Mario.50cdfcaef679271583d3.png",
+    "index.html": "/Ivan-1-/index.html",
+    "main.df4273a9.css.map": "/Ivan-1-/static/css/main.df4273a9.css.map",
+    "main.c2d7c44e.js.map": "/Ivan-1-/static/js/main.c2d7c44e.js.map",
+    "787.319676fc.chunk.js.map": "/Ivan-1-/static/js/787.319676fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4273a9.css",
+    "static/js/main.c2d7c44e.js"
+  ]
+}
